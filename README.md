@@ -3,9 +3,9 @@ SSAFY 14기 교육생 | python 비전공반
 
 
 ## Contact
-**Phone** *010-4001-3413*
+**Phone** *010-1234-5678*
 
-**E-mail** *yangjw1998@naver.com*
+**E-mail** *hello.py@naver.com*
 
 
 ## Skills
